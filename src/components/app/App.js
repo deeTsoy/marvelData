@@ -1,4 +1,5 @@
 import { Component } from "react";
+
 import AppHeader from "../appHeader/AppHeader";
 import RandomChar from "../randomChar/RandomChar";
 import CharList from "../charList/CharList";
@@ -42,5 +43,6 @@ class App extends Component {
         )
     }
 }
+
 
 export default App;
